@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124951653317",
+    "firebase_url": "https://tfg-fotografia-default-rtdb.firebaseio.com",
+    "project_id": "tfg-fotografia",
+    "storage_bucket": "tfg-fotografia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124951653317:android:a69c8d45f788a5819bb9ac",
+        "android_client_info": {
+          "package_name": "com.example.tfg_fotografia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124951653317-bfske60pfd8pgf00pb1p5c87fucitggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-H3BxnvG9_vgHZw6IejfqFQ8SScnRe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124951653317-bfske60pfd8pgf00pb1p5c87fucitggi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

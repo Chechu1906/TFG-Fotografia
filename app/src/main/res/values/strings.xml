@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TFG-Fotografia</string>
+    <string name="acceder">Acceder</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrase_a1">Contraseña</string>
+    <string name="aun_no_estas_registrado">¿Aun no estas registrado?</string>
+    <string name="todo">TODO</string>
+</resources>
